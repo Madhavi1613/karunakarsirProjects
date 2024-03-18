@@ -442,6 +442,9 @@ padding: 6px;
 		align-items: center;
 		gap:30px;
 	}
+	#name{
+		width: 330px;
+	}
 	#footer{
 		flex-direction: column;
 		gap: 30px;
